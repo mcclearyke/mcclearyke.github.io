@@ -1,2 +1,2 @@
 # mcclearyke.github.io
-I make website. I feel smart-ish
+My first attempt at a webpage layout and linking between two pages
